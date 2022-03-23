@@ -152,7 +152,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "inc/sendEmail.php",
+	      url: "https://fnfbroker.com/dev-moon/portfolio-mail.php",
 	      data: data,
 	      success: function(msg) {
 
